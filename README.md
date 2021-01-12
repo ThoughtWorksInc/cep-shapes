@@ -29,10 +29,10 @@ cep-shapes$ gradle build
 
 First, you will need:
 
+- Node.js 10 or newer
+  - `brew install node`
 - A Javascript IDE (like Visual Studio Code)
   - `brew install --cask visual-studio-code`
-- node
-  - `brew install node`
 
 Clone this repository, then use `npm` to build the project. You should see a single test failure.
 ```sh
