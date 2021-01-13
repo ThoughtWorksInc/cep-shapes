@@ -1,4 +1,4 @@
-package com.thoughtworks.cep;
+package com.thoughtworks.cep.shapes;
 
 public class Shape {
     public int area() {
